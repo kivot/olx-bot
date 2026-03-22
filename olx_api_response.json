@@ -1,0 +1,3408 @@
+{
+  "data": [
+    {
+      "id": 63741083,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-2024-yil-4-pazitsa-ID4jrXZ.html",
+      "title": "Cobalt 2024 yil 4 pazitsa",
+      "last_refresh_time": "2026-03-21T23:13:40+05:00",
+      "created_time": "2026-03-04T23:16:36+05:00",
+      "valid_to_time": "2026-04-03T23:16:37+05:00",
+      "pushup_time": "2026-03-21T23:13:40+05:00",
+      "omnibus_pushup_time": "2026-03-21T23:13:40+05:00",
+      "description": "Cobalt 2024 yil 4 pazitsa 32000 yurgan kraskasi toza oʻzimi moshinam <br />\nTel 999309999",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_premium"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 11300,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 137530040,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "137 530 040 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "hatchback",
+            "label": "Хэтчбек"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2024",
+            "label": "2024 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "32000",
+            "label": "32 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "15",
+            "label": "15 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "air_con",
+              "electric_mirrors",
+              "electric_windows",
+              "park_assist",
+              "security",
+              "tax_paid"
+            ],
+            "label": "Кондиционер, Электрозеркала, Эл. стеклоподъемники, Парктроник, Охранная система, Растаможена"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 134787819,
+        "created": "2023-03-08T00:13:59+05:00",
+        "other_ads_enabled": true,
+        "name": "ahmadzonhamidullaev",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-21T17:21:38+05:00",
+        "seller_type": null,
+        "uuid": "d12ff370-73d2-4dd6-b173-a55a9c89b405"
+      },
+      "status": "active",
+      "contact": {
+        "name": "ahmadzonhamidullaev",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.35912,
+        "lon": 69.22791,
+        "radius": 2,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 20,
+          "name": "Алмазарский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 152272724,
+          "filename": "f3ea5q019njy-UZ",
+          "rotation": 0,
+          "width": 720,
+          "height": 1560,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/f3ea5q019njy-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 152405244,
+          "filename": "2q04mcchvr5w1-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 924,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/2q04mcchvr5w1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 152405245,
+          "filename": "zdkbh489ifm41-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 924,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zdkbh489ifm41-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 152405246,
+          "filename": "3owk7bjme1jy1-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 924,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/3owk7bjme1jy1-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63960355,
+      "url": "https://www.olx.uz/d/obyavlenie/chevrolet-cobalt-mcm-ID4kn0D.html",
+      "title": "Chevrolet Cobalt MCM",
+      "last_refresh_time": "2026-03-22T10:14:53+05:00",
+      "created_time": "2026-03-22T03:59:54+05:00",
+      "valid_to_time": "2026-04-21T03:59:55+05:00",
+      "pushup_time": null,
+      "description": "Продаётся Chevrolet Cobalt MCM.<br />\nГод выпуска — 2025, модельный ряд 2026.<br />\nПробег — 9 300 км.<br />\n<br />\nУстановлен метан 4-го поколения.<br />\nСтоит Malibu bar, установлены чипы — работают обогрев сидений, электронный ручник, подсветка P/R/N/D. Также работает беспроводная зарядка в салоне.<br />\n<br />\nСалон полностью чёрный, кожаные сиденья.<br />\nПотолок и стойки перетянуты в ткань под алькантару.<br />\n<br />\nСнаружи: чёрные повторители поворотников, чёрные элементы вокруг туманок.<br />\n<br />\nВ подарок видеорегистратор с тремя камерами.<br />\nМашина в отличном состоянии, вложений не требует.<br />\nТорг уместен.<br />\nЗвонит +998330122212<br />\n+998977530445 <br />\n<br />\nChevrolet Cobalt MCM sotiladi.<br />\nYili — 2025, model qatori — 2026.<br />\nProbeg — 9 300 km.<br />\n<br />\n4-pokoleniya metan qo‘yilgan.<br />\nMalibu bar bor, chiplari bilan qoyilgan — sideniya obogrev, elektron ruchnik, P/R/N/D begushiy. Salonida besprovodnoy zaryadka ham bor.<br />\n<br />\nSalon to‘liq qora rangda, sideniyala koja.<br />\nPotolok va stoykalar alkantaraga o‘xshash mato bilan qoplangan.<br />\n<br />\nTashqarisi: yonida qora povorotniklar, tumankalar atrofida qora bezaklar.<br />\n<br />\nBonusiga uch kamerali videoregistrator beriladi.<br />\nMashina holati zo‘r, qo‘shimcha xarajat yo‘q.<br />\nTorg bor.<br />\nTel: +998330122212<br />\n+998977530445",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_optimum"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 13800,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 167957040,
+            "previous_value": 14000,
+            "converted_previous_value": 170391200,
+            "converted_currency": "UZS",
+            "label": "167 957 040 сум",
+            "previous_label": "14 000 у.е."
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2025",
+            "label": "2025 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "9300",
+            "label": "9 300 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "9",
+            "label": "Асфальт"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1",
+            "label": "1 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Газ/Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "park_assist",
+              "electric_mirrors",
+              "security",
+              "electric_windows",
+              "air_con",
+              "tax_paid"
+            ],
+            "label": "Парктроник, Электрозеркала, Охранная система, Эл. стеклоподъемники, Кондиционер, Растаможена"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 535935355,
+        "created": "2025-10-24T22:10:50+05:00",
+        "other_ads_enabled": true,
+        "name": "umarovxoji9",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-22T15:37:17+05:00",
+        "seller_type": null,
+        "uuid": "69238a23-9d9c-46b6-a866-5aba59f9b833"
+      },
+      "status": "active",
+      "contact": {
+        "name": "xoji",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.28114,
+        "lon": 69.28768,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 13,
+          "name": "Мирабадский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 153303698,
+          "filename": "m05cwj0watzj1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/m05cwj0watzj1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153303699,
+          "filename": "8dtjnnyvo5971-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8dtjnnyvo5971-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153303700,
+          "filename": "bbqbbbmvq4nj-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/bbqbbbmvq4nj-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153303701,
+          "filename": "c0eod55hk8i93-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/c0eod55hk8i93-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153303702,
+          "filename": "r7wxlvbu72nt3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/r7wxlvbu72nt3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153303703,
+          "filename": "6coz39h60tk33-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6coz39h60tk33-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63585946,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-gx-style-at-plus-2023-dekabr-ID4iNBM.html",
+      "title": "COBALT GX-STYLE AT PLUS (2023 декабрь)",
+      "last_refresh_time": "2026-03-22T01:41:19+05:00",
+      "created_time": "2026-02-22T13:00:17+05:00",
+      "valid_to_time": "2026-03-24T13:00:17+05:00",
+      "pushup_time": "2026-03-22T01:41:19+05:00",
+      "omnibus_pushup_time": "2026-03-22T01:41:19+05:00",
+      "description": "Продаю свой автомобиль в идеальном состоянии. Машина ухоженная, вложений не требует, сел и поехал!<br />\n<br />\nМодель: Cobalt GX-STYLE AT PLUS (2023 декабря забрал из салона)<br />\nЦвет: Белый <br />\nПробег: 23,800 км<br />\n<br />\nДополнительные удобства (делал для своего комфорта):<br />\n- Чехлы Cardinar<br />\n- Сенсорный магнитофон Sony (+apple carplay)<br />\n- Magicar<br />\n- Видеорегистратор Motorolla<br />\n- Полики Evacor (салон)<br />\n- Коженная подстилка [багажник]<br />\n- Качественная тонировка (до июня 2026г)<br />\n- Дополнительные комфортные подголовники<br />\n- Машина полностью обслужена<br />\n<br />\nЧистый салон, бережная эксплуатация (заливал только 92 бензин, и ездил работа-дом). Незначительная царапина с левой части дверей (см. фото). Небольшой торг у капота, звонить только реальным покупателям.",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_premium"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 11000,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 133878799.99999999,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "133 878 800 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2023",
+            "label": "2023 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "23800",
+            "label": "23 800 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1485",
+            "label": "1 485 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "air_con",
+              "security"
+            ],
+            "label": "Кондиционер, Охранная система"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 210743,
+        "created": "2011-06-06T20:19:15+05:00",
+        "other_ads_enabled": true,
+        "name": "Пользователь",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-18T22:57:06+05:00",
+        "seller_type": null,
+        "uuid": "bd0a2b51-59e4-4d22-8873-de4ab1108943"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Пользователь",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.33109,
+        "lon": 69.3475,
+        "radius": 2,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 12,
+          "name": "Мирзо-Улугбекский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 151534415,
+          "filename": "delxp7mak1q81-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/delxp7mak1q81-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534416,
+          "filename": "dha6pvqkxlfa3-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dha6pvqkxlfa3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534417,
+          "filename": "3cl6m93qwlak2-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/3cl6m93qwlak2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534418,
+          "filename": "qw5i58oi2s4u-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qw5i58oi2s4u-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534419,
+          "filename": "ci3jr8oq3o0p3-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 1500,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ci3jr8oq3o0p3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534420,
+          "filename": "cloke2q9i4qk1-UZ",
+          "rotation": 0,
+          "width": 4284,
+          "height": 5712,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/cloke2q9i4qk1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534421,
+          "filename": "65p4bvv8w20x-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 1500,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/65p4bvv8w20x-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534422,
+          "filename": "w5ov6r6v4pdc3-UZ",
+          "rotation": 0,
+          "width": 5712,
+          "height": 4284,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/w5ov6r6v4pdc3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534423,
+          "filename": "vc0jwmtnafml-UZ",
+          "rotation": 0,
+          "width": 2000,
+          "height": 1500,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/vc0jwmtnafml-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 151534424,
+          "filename": "idmw1lgtz6ax2-UZ",
+          "rotation": 0,
+          "width": 4284,
+          "height": 5712,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/idmw1lgtz6ax2-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63370348,
+      "url": "https://www.olx.uz/d/obyavlenie/prodaetsya-cobalt-kobalt-ltz-ID4hTvo.html",
+      "title": "продается Cobalt/Кобальт LTZ",
+      "last_refresh_time": "2026-03-22T20:55:24+05:00",
+      "created_time": "2026-02-06T22:53:18+05:00",
+      "valid_to_time": "2026-04-07T22:53:19+05:00",
+      "pushup_time": "2026-03-22T20:55:24+05:00",
+      "omnibus_pushup_time": "2026-03-22T20:55:24+05:00",
+      "description": "Модель - LTZ <br />\nТип кузова - Седан<br />\nГод выпуск - 2015<br />\nПробег - 109000<br />\nКоробка - механика <br />\nДТП - нет<br />\nКраска - дверь<br />\nОбъем двигателя -  1500см³<br />\n<br />\nВид топлива - только бензин с момента покупки Ai 92<br />\nСостояние машины - Отличное<br />\nКоличество хозяев - 2 (при покупке в 2018-ом году пробег был 1500км)<br />\n<br />\nДоп опции: <br />\nфары/туманки LED (стандарт проходят), качественные чехлы, коврики(Evakor), баллоны меняли в том году (зима/лето)<br />\n<br />\nТорг есть",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_optimum",
+          "pushup"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 8000,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 97366400,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "97 366 400 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2015",
+            "label": "2015 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "109000",
+            "label": "109 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Механическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1500",
+            "label": "1 500 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "2",
+            "label": "2"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "air_con",
+              "electric_mirrors",
+              "electric_windows"
+            ],
+            "label": "Кондиционер, Электрозеркала, Эл. стеклоподъемники"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 48276119,
+        "created": "2021-02-06T14:56:40+05:00",
+        "other_ads_enabled": true,
+        "name": "qwerty",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-13T21:28:32+05:00",
+        "seller_type": null,
+        "uuid": "2d71b153-87b6-4341-a214-89a0e42486cd"
+      },
+      "status": "active",
+      "contact": {
+        "name": "qwerty",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.23068,
+        "lon": 69.2423,
+        "radius": 4,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 19,
+          "name": "Сергелийский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 150498710,
+          "filename": "ncvk3ha19gn33-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ncvk3ha19gn33-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 150498711,
+          "filename": "ottp4j3n4ef83-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ottp4j3n4ef83-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 150498712,
+          "filename": "tkz3dpfarmhb3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/tkz3dpfarmhb3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 150498713,
+          "filename": "5r7cvetrgbls-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/5r7cvetrgbls-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 150498714,
+          "filename": "t2wlogsayeza3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/t2wlogsayeza3-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 52009257,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-ideal-xolatda-ID3vdYZ.html",
+      "title": "Cobalt ideal xolatda",
+      "last_refresh_time": "2026-03-22T20:53:36+05:00",
+      "created_time": "2024-01-02T21:21:32+05:00",
+      "valid_to_time": "2026-04-21T21:07:32+05:00",
+      "pushup_time": null,
+      "description": "Mashinani faqat uzim minganman ozor yemagan mashina real oladoganla tel qilsin",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 160000000,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "UZS",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "160 000 000 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2020",
+            "label": "2020 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "15000",
+            "label": "15 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Механическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "15",
+            "label": "15 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 244932591,
+        "created": "2023-11-20T01:25:42+05:00",
+        "other_ads_enabled": true,
+        "name": "s8mh6tfqn9",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-01-02T21:04:01+05:00",
+        "seller_type": null,
+        "uuid": "91d62dea-8b7a-4f28-b715-234f3db7d5bf"
+      },
+      "status": "active",
+      "contact": {
+        "name": "s8mh6tfqn9",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 38.85825,
+        "lon": 65.7918,
+        "radius": 9,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 132,
+          "name": "Карши",
+          "normalized_name": "karshi"
+        },
+        "region": {
+          "id": 29,
+          "name": "Кашкадарьинская область",
+          "normalized_name": "kashkadarinskaya-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 99211509,
+          "filename": "sj03mjzz1obq-UZ",
+          "rotation": 0,
+          "width": 720,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/sj03mjzz1obq-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 61342586,
+      "url": "https://www.olx.uz/d/obyavlenie/ravon-cobalt-sotiladi-ID49o0y.html",
+      "title": "Ravon Cobalt sotiladi",
+      "last_refresh_time": "2026-03-22T20:53:26+05:00",
+      "created_time": "2025-09-06T15:47:10+05:00",
+      "valid_to_time": "2026-04-21T21:06:58+05:00",
+      "pushup_time": "2025-09-07T14:25:43+05:00",
+      "description": "Cobalt ravon sotiladi narxini kelishamiz metan gazi bor 80 talik uzimni bir qul moshinam bekorchilar bezovta qilmasin <br />\nTel +998914527773",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 120000000,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UZS",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "120 000 000 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2019",
+            "label": "2019 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "194000",
+            "label": "194 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Механическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "5",
+            "label": "Серебристый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1",
+            "label": "1 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Газ/Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "air_con",
+              "electric_mirrors",
+              "electric_windows",
+              "park_assist",
+              "security",
+              "tax_paid"
+            ],
+            "label": "Кондиционер, Электрозеркала, Эл. стеклоподъемники, Парктроник, Охранная система, Растаможена"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 126975938,
+        "created": "2023-01-15T16:37:08+05:00",
+        "other_ads_enabled": true,
+        "name": "Avto",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2025-11-29T07:08:29+05:00",
+        "seller_type": null,
+        "uuid": "fb06f552-71d1-4390-9e4a-767b244a1236"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Avto",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 38.85825,
+        "lon": 65.7918,
+        "radius": 9,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 132,
+          "name": "Карши",
+          "normalized_name": "karshi"
+        },
+        "region": {
+          "id": 29,
+          "name": "Кашкадарьинская область",
+          "normalized_name": "kashkadarinskaya-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 141187088,
+          "filename": "1a4z2lc5y5du-UZ",
+          "rotation": 0,
+          "width": 961,
+          "height": 923,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/1a4z2lc5y5du-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 55539392,
+      "url": "https://www.olx.uz/d/obyavlenie/cobolt-2023-yil-4-pazitsiya-avtamat-krdit-avto-ID3L2kE.html",
+      "title": "cobolt 2023 yil 4-pazitsiya avtamat KRDIT AVTO",
+      "last_refresh_time": "2026-03-22T20:52:56+05:00",
+      "created_time": "2024-07-30T21:20:50+05:00",
+      "valid_to_time": "2026-04-21T21:06:32+05:00",
+      "pushup_time": "2024-08-20T21:21:52+05:00",
+      "description": "PREMIER AVTO KREDIT<br />\nCOBALT 4-Pozitsiya Avtomat Full <br />\nYili [2023-yil] Oq Rang<br />\nProbeg [64.000 Km Xalol 100%]<br />\nta yaxshi yumsho balon <br />\nMetanGaz 3-Pokoleniya <br />\nYaxshi Polik<br />\n<br />\nАссалому алейкум Хурматли Ватандошлар биз сизларга уз Авто кредит хизматларимизни таклиф киламиз,<br />\nЛизинг Эмас !!!<br />\nБарчаси Конуний БАНК оркали озингизни номингизга расмийлаштирилади.<br />\nАВТОМОБИЛЬ НОТАРИАЛ ИДОРАЛАРИ ТОМОНИДАН 1 КУНДА ОЗИНГИЗНИ НОМИНГИЗГА РАСМИЙЛАШТИРИЛАДИ.<br />\n<br />\nИккиламчи Бозор Яни B/U Автомобилларни Банк оркали уз номингизга олиб берамиз.<br />\n<br />\nБизлар Ишончли-Тезкор ва Сифатли хизмат курсатамиз.<br />\n<br />\nКредит Муддати 1-2-3-4-5 йилгача !<br />\n<br />\nБошлангич тулов : 10%<br />\nБарча вилоятларга 10% Пасспорт ва права Узи Кифоя !<br />\nЙиллик фойз : 19% <br />\nИккиламчи Автомобилга<br />\nБанк ставкаси колдик суммага йиллик 19% га айланади Фоиз тушиб боришини хисобига! Бошка йиллик фоиз тулов йок ! Ишонмасангиз исподлаб берилади.<br />\n<br />\nКредит муддати 12-24-36-48-60 ой <br />\nБош тулов 10% дан бошланади ва харажатлар кушиб туланади !<br />\nЭрта тулов мавжуд !<br />\nКредит туловини муддатдан олдин вактлирок йопсангиз колган йиллик фоизларингизни туламайсиз ва туланган сугурта пулингиз кайтариб берилади!<br />\n<br />\nКеракли хужжат факатгина<br />\n<br />\n1-ПАССПОРТ ва ПРАВА<br />\n-<br />\nИш жойидан справкалар (Доход) КЕРАК ЭМАС! Ортикча Хужжатларсиз ! Пасспортингизни ва Права боса узи Кифоя.<br />\n<br />\nТошкент ва тошкент вилояти хамда колган барча вилоятларга хизмат курсатамиз! Узбекистон Буйлаб.<br />\n<br />\nИккиламчи Бозордан сиз хохлаган машинангизни олишингиз мумкин кулай шартлар асосида.<br />\n<br />\nХохласангиз узингиз Автомобил топинг хохласангиз бизлар топиб берамиз. Узимиздахам Автомобиллар бор. Айнан шу Элонлаги Автомобил Сотилган булса бошка турдаги Автомобилларимиз хам бор!<br />\n<br />\nБошлангич тулов 10% ва колган Сугурта-Гаи-Нотариус-бошка харажатларни ва ойма ой тулов жадвалини телеграмм оркали график шаклида ташлаб берилади ! <br />\n<br />\nАгарда узингизни Автомобилингизни сотмокчи булсангизхам бизлар сотишга йордам берамиз!<br />\n<br />\nБундай таклиф камдан кам ишонинг<br />\n<br />\nСиз Танлаган Автомобилни Йили Энг пасти 2017 булиши керак Агарда 2017 Йилдан паст Булса буни имкони булмайди ! Факат Йенгил Барча Турдаги Автомобилларини олиб бераоламиз !<br />\nШошилинг бунакаси хали булмаган !!!<br />\n<br />\nТелефон ракам 24 соат Онлайн<br />\n+998770044144 Abdulloh<br />\n+998935945352 Abdumomin<br />\nКунгирогингизга жавоб бераолмасак Телеграмм оркали йозинг.<br />\nТелеграмм оркали батавсил малумот берилади!",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 12300,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 149700840,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "149 700 840 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2023",
+            "label": "2023 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "64000",
+            "label": "64 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1500",
+            "label": "1 500 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Газ/Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": true,
+      "user": {
+        "id": 423696002,
+        "created": "2024-07-19T10:52:48+05:00",
+        "other_ads_enabled": true,
+        "name": "shoyoqubovabdulloh2003",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-07-19T10:53:32+05:00",
+        "seller_type": null,
+        "uuid": "82fc69cf-a1c9-4bbe-8097-8d682c862a30"
+      },
+      "status": "active",
+      "contact": {
+        "name": "shoyoqubovabdulloh2003",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.35912,
+        "lon": 69.22791,
+        "radius": 2,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 20,
+          "name": "Алмазарский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 115031965,
+          "filename": "rkbvzd8nofmn2-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 752,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/rkbvzd8nofmn2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 115031966,
+          "filename": "neemv498vyal3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 763,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/neemv498vyal3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 115031967,
+          "filename": "rkpiarhldibc2-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 840,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/rkpiarhldibc2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 115031968,
+          "filename": "h2i4w1t93rdp1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 825,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h2i4w1t93rdp1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 115031969,
+          "filename": "qvep6d1t5gds1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 840,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qvep6d1t5gds1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 115031970,
+          "filename": "9bdd61ot11my1-UZ",
+          "rotation": 0,
+          "width": 462,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/9bdd61ot11my1-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63957764,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-2023-avtomat-ID4kmkQ.html",
+      "title": "Cobalt 2023 Avtomat",
+      "last_refresh_time": "2026-03-22T20:51:46+05:00",
+      "created_time": "2026-03-21T20:01:04+05:00",
+      "valid_to_time": "2026-04-21T20:49:17+05:00",
+      "pushup_time": null,
+      "description": "Cobalt 2023 Avtomat <br />\nSastayanasi ideal rasxodi yoq moshina ideal Kraskasi Kapot krilosida bor ichi butun kotta udari yoq srochna sotilad",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 10550,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 128401939.99999999,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "128 401 940 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2023",
+            "label": "2023 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "43000",
+            "label": "43 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1500",
+            "label": "1 500 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "electric_windows"
+            ],
+            "label": "Эл. стеклоподъемники"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 4141710,
+        "created": "2017-04-09T09:37:10+05:00",
+        "other_ads_enabled": true,
+        "name": "Sardor",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-22T20:43:55+05:00",
+        "seller_type": null,
+        "uuid": "b659ae3c-7dd7-4881-8e5c-e6a1a781df33"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Sardor",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.31688,
+        "lon": 69.21973,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 24,
+          "name": "Шайхантахурский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 153292578,
+          "filename": "7tydc7ut36r41-UZ",
+          "rotation": 0,
+          "width": 1080,
+          "height": 973,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/7tydc7ut36r41-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153292579,
+          "filename": "zl4v2cp6ia291-UZ",
+          "rotation": 0,
+          "width": 1080,
+          "height": 981,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zl4v2cp6ia291-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153292580,
+          "filename": "n0l7bk9kjkbw-UZ",
+          "rotation": 0,
+          "width": 1280,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/n0l7bk9kjkbw-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153292581,
+          "filename": "lqnl77kdda4g1-UZ",
+          "rotation": 0,
+          "width": 1080,
+          "height": 965,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lqnl77kdda4g1-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63969488,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-sotiladi-srochnoi-ID4kpnV.html",
+      "title": "Cobalt sotiladi srochnoi",
+      "last_refresh_time": "2026-03-22T20:48:12+05:00",
+      "created_time": "2026-03-22T20:25:46+05:00",
+      "valid_to_time": "2026-04-21T20:25:47+05:00",
+      "pushup_time": null,
+      "description": "Cobalt sotiladi holat yaxshi yil 2012 prabek 231 km 3 paditsiya 4 ta yangi balon qogan telda  946119909",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 7200000,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UZS",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "7 200 000 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "other",
+            "label": "Другой"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2012",
+            "label": "2012 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "231",
+            "label": "231 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Механическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "4",
+            "label": "Серый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1",
+            "label": "1 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "2",
+            "label": "2"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "tax_paid"
+            ],
+            "label": "Растаможена"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 329839939,
+        "created": "2024-03-14T19:40:42+05:00",
+        "other_ads_enabled": true,
+        "name": "nuriddinovshohobiddin4",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-22T20:25:47+05:00",
+        "seller_type": null,
+        "uuid": "e53457a8-8f1c-4202-b797-9fa28e1270ee"
+      },
+      "status": "active",
+      "contact": {
+        "name": "nuriddinovshohobiddin4",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.35796,
+        "lon": 69.29318,
+        "radius": 2,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 25,
+          "name": "Юнусабадский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 153344527,
+          "filename": "h7ng1m049vwr2-UZ",
+          "rotation": 0,
+          "width": 960,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h7ng1m049vwr2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344528,
+          "filename": "60ghbhzbt6xk2-UZ",
+          "rotation": 0,
+          "width": 960,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/60ghbhzbt6xk2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344529,
+          "filename": "4ilb7x2abaco2-UZ",
+          "rotation": 0,
+          "width": 1280,
+          "height": 960,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/4ilb7x2abaco2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344530,
+          "filename": "z3bh7zvhh0j8-UZ",
+          "rotation": 0,
+          "width": 960,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/z3bh7zvhh0j8-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344531,
+          "filename": "ni9gdwrz9jum1-UZ",
+          "rotation": 0,
+          "width": 1280,
+          "height": 960,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ni9gdwrz9jum1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344532,
+          "filename": "9j1j08v6q0j82-UZ",
+          "rotation": 0,
+          "width": 1280,
+          "height": 960,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/9j1j08v6q0j82-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344533,
+          "filename": "neavp7h2vk7t3-UZ",
+          "rotation": 0,
+          "width": 960,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/neavp7h2vk7t3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344534,
+          "filename": "6lqsfu4w3zsj3-UZ",
+          "rotation": 0,
+          "width": 960,
+          "height": 1280,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6lqsfu4w3zsj3-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63969696,
+      "url": "https://www.olx.uz/d/obyavlenie/srochna-cobalt-sotiladi-ID4kpri.html",
+      "title": "Srochna cobalt sotiladi",
+      "last_refresh_time": "2026-03-22T20:44:57+05:00",
+      "created_time": "2026-03-22T20:42:37+05:00",
+      "valid_to_time": "2026-04-21T20:42:37+05:00",
+      "pushup_time": null,
+      "description": "2025 yil probegi 7.800km polniy navarot qilingan propanlari qoyilgan matorlari usilinniy qilingan 12.700$ narxi ustida kelishiladi",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 12700,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 154569160,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "154 569 160 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "other",
+            "label": "Другой"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2025",
+            "label": "2025 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "7800",
+            "label": "7 800 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "100",
+            "label": "100 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Газ/Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": true,
+      "user": {
+        "id": 743446,
+        "created": "2015-06-09T19:06:35+05:00",
+        "other_ads_enabled": true,
+        "name": "INFINITUM ESTATE",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-22T20:42:37+05:00",
+        "seller_type": null,
+        "uuid": "a05d024f-b179-434a-931b-54c20f3c6d5e"
+      },
+      "status": "active",
+      "contact": {
+        "name": "INFINITUM ESTATE",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.23068,
+        "lon": 69.2423,
+        "radius": 4,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 19,
+          "name": "Сергелийский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 153345477,
+          "filename": "dlgy6d1n51ua1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dlgy6d1n51ua1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153345478,
+          "filename": "26h0wvrzqdcz1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/26h0wvrzqdcz1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153345479,
+          "filename": "fnam1e71631k1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/fnam1e71631k1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153345480,
+          "filename": "5gj962ogb03m-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/5gj962ogb03m-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153345481,
+          "filename": "syk1w3k3wpij1-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/syk1w3k3wpij1-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153345482,
+          "filename": "taa6epewt9jq-UZ",
+          "rotation": 0,
+          "width": 1000,
+          "height": 750,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/taa6epewt9jq-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63969431,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-kobalt-kobalt-2019-god-2019-yil-ID4kpn1.html",
+      "title": "Cobalt Кобальт Кобалт 2019 год 2019 йил",
+      "last_refresh_time": "2026-03-22T20:23:53+05:00",
+      "created_time": "2026-03-22T20:21:40+05:00",
+      "valid_to_time": "2026-04-21T20:21:40+05:00",
+      "pushup_time": null,
+      "description": "Кобальт машинаси сотилади 2019 йил 82.000 км юрган. Холати яхши, мокрый рангда. Краскаси тоза, ДТП холати булмаган. Хохлаган мастерда текширтириш мумкин. <br />\nМалибу 2 руль, Малибу 2 бар оригинал (Хитойни 100$ варианти эмас), антирадар, регистратор, обогрев сидений, метан 4 поколение бор.",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_optimum"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 9100,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 110754280,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "110 754 280 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "terms_of_sale",
+          "name": "Условия продажи",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "oddiy_sotish"
+            ],
+            "label": "Простая продажа"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2019",
+            "label": "2019 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "82000",
+            "label": "82 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "9",
+            "label": "Асфальт"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1",
+            "label": "1 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "545",
+            "label": "Газ/Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "good",
+            "label": "Хорошее"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 7820676,
+        "created": "2018-01-08T15:27:15+05:00",
+        "other_ads_enabled": true,
+        "name": "Axmedov_Nodir",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-22T20:21:40+05:00",
+        "seller_type": null,
+        "uuid": "1b938fa9-72b5-4cc4-98b9-f2d2594d973b"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Axmedov_Nodir",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 39.77754,
+        "lon": 64.4228,
+        "radius": 10,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 104,
+          "name": "Бухара",
+          "normalized_name": "buhara"
+        },
+        "region": {
+          "id": 27,
+          "name": "Бухарская область",
+          "normalized_name": "buharskaya-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 153344309,
+          "filename": "2tfycqr2c78h3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/2tfycqr2c78h3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344310,
+          "filename": "u38v1vwnxf6q3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u38v1vwnxf6q3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344311,
+          "filename": "z43zd7aplz6p3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/z43zd7aplz6p3-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344312,
+          "filename": "cc74cr40lrre-UZ",
+          "rotation": 0,
+          "width": 1000,
+          "height": 750,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/cc74cr40lrre-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344313,
+          "filename": "q6b2gfw7upsa2-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/q6b2gfw7upsa2-UZ/image;s={width}x{height}"
+        },
+        {
+          "id": 153344314,
+          "filename": "1imv3g898zec3-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/1imv3g898zec3-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 52008796,
+      "url": "https://www.olx.uz/d/obyavlenie/cobalt-ltz-probek-35-km-ID3vdRy.html",
+      "title": "cobalt ltz probek 35 km",
+      "last_refresh_time": "2026-03-22T20:20:08+05:00",
+      "created_time": "2024-01-02T20:47:05+05:00",
+      "valid_to_time": "2026-04-21T20:33:33+05:00",
+      "pushup_time": null,
+      "description": "cobalt sotiladi ltz yil 2023 35 km yurgan yangi pachka rangi oq nomer olingan",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 175000000,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "UZS",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "175 000 000 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2023",
+            "label": "2023 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "35",
+            "label": "35 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "Белый"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1485",
+            "label": "1 485 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        },
+        {
+          "key": "owners",
+          "name": "Количество хозяев",
+          "type": "select",
+          "value": {
+            "key": "1",
+            "label": "1"
+          }
+        },
+        {
+          "key": "car_option",
+          "name": "Доп. опции",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "security",
+              "electric_windows",
+              "air_con",
+              "electric_mirrors"
+            ],
+            "label": "Охранная система, Эл. стеклоподъемники, Кондиционер, Электрозеркала"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 240620797,
+        "created": "2023-11-11T23:40:41+05:00",
+        "other_ads_enabled": true,
+        "name": "nuralirahmonov652",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-08-07T00:23:47+05:00",
+        "seller_type": null,
+        "uuid": "2ba906bc-0ed9-4cc4-99b9-4996ee589449"
+      },
+      "status": "active",
+      "contact": {
+        "name": "shaxobjon",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 40.10372,
+        "lon": 65.36921,
+        "radius": 3,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 147,
+          "name": "Навои",
+          "normalized_name": "navoi"
+        },
+        "region": {
+          "id": 30,
+          "name": "Навоийская область",
+          "normalized_name": "navoijskaya-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 99209694,
+          "filename": "ydb8p5e6qvsi-UZ",
+          "rotation": 0,
+          "width": 683,
+          "height": 337,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ydb8p5e6qvsi-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    },
+    {
+      "id": 63963570,
+      "url": "https://www.olx.uz/d/obyavlenie/kobalt-2024-krasska-tozza-srochna-sotaman-ID4knQu.html",
+      "title": "kobalt 2024 krasska tozza srochna sotaman",
+      "last_refresh_time": "2026-03-22T20:19:46+05:00",
+      "created_time": "2026-03-22T13:04:56+05:00",
+      "valid_to_time": "2026-04-21T13:04:56+05:00",
+      "pushup_time": "2026-03-22T20:19:46+05:00",
+      "omnibus_pushup_time": "2026-03-22T20:19:46+05:00",
+      "description": "2024 yil kraska tozza <br />\n44.000 yirgan <br />\n4 ta eshik patalok shumka bogan <br />\npulitdan oyna kotaradi zavat qiladi<br />\npolik arginal",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [
+          "pushup"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "model",
+          "name": "Модель",
+          "type": "select",
+          "value": {
+            "key": "cobalt",
+            "label": "Cobalt"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Цена",
+          "type": "price",
+          "value": {
+            "value": 11000,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "UYE",
+            "negotiable": true,
+            "converted_value": 133878799.99999999,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": "UZS",
+            "label": "133 878 800 сум",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "car_body",
+          "name": "Тип кузова",
+          "type": "select",
+          "value": {
+            "key": "sedan",
+            "label": "Седан"
+          }
+        },
+        {
+          "key": "motor_year",
+          "name": "Год выпуска",
+          "type": "input",
+          "value": {
+            "key": "2024",
+            "label": "2024 "
+          }
+        },
+        {
+          "key": "motor_mileage",
+          "name": "Пробег",
+          "type": "input",
+          "value": {
+            "key": "44000",
+            "label": "44 000 км"
+          }
+        },
+        {
+          "key": "transmission_type",
+          "name": "Коробка передач",
+          "type": "select",
+          "value": {
+            "key": "546",
+            "label": "Автоматическая"
+          }
+        },
+        {
+          "key": "color",
+          "name": "Цвет",
+          "type": "select",
+          "value": {
+            "key": "9",
+            "label": "Асфальт"
+          }
+        },
+        {
+          "key": "motor_engine_size",
+          "name": "Объем двигателя",
+          "type": "input",
+          "value": {
+            "key": "1",
+            "label": "1 см³"
+          }
+        },
+        {
+          "key": "fuel_type",
+          "name": "Вид топлива",
+          "type": "select",
+          "value": {
+            "key": "542",
+            "label": "Бензин"
+          }
+        },
+        {
+          "key": "condition",
+          "name": "Состояние машины",
+          "type": "select",
+          "value": {
+            "key": "perfect",
+            "label": "Отличное"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": true,
+      "user": {
+        "id": 536182625,
+        "created": "2025-11-11T14:58:09+05:00",
+        "other_ads_enabled": true,
+        "name": "shomuxidovjaloliddin",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2026-03-22T13:04:56+05:00",
+        "seller_type": null,
+        "uuid": "7019dfb5-e99c-454b-8080-bc14e87b050c"
+      },
+      "status": "active",
+      "contact": {
+        "name": "shomuxidovjaloliddin",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 41.23068,
+        "lon": 69.2423,
+        "radius": 4,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4,
+          "name": "Ташкент",
+          "normalized_name": "tashkent"
+        },
+        "district": {
+          "id": 19,
+          "name": "Сергелийский район"
+        },
+        "region": {
+          "id": 5,
+          "name": "Ташкентская область",
+          "normalized_name": "toshkent-oblast"
+        }
+      },
+      "photos": [
+        {
+          "id": 153317706,
+          "filename": "i4ltoxterckw-UZ",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://frankfurt.apollo.olxcdn.com:443/v1/files/i4ltoxterckw-UZ/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 983,
+        "type": "automotive"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": null
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "isGpsrAvailable": false,
+      "offer_type": "offer"
+    }
+  ],
+  "metadata": {
+    "total_elements": 1000,
+    "visible_total_count": 6621,
+    "promoted": [
+      0,
+      1,
+      2
+    ],
+    "search_id": "A73F5AD64F6470DDA7A7BEFFC8866FD0",
+    "adverts": {
+      "places": null,
+      "config": {
+        "targeting": {
+          "env": "production",
+          "lang": "ru",
+          "account": "",
+          "segment": [],
+          "user_status": "0",
+          "cat_l0_id": "3",
+          "cat_l1_id": "108",
+          "cat_l0": "transport",
+          "cat_l0_path": "transport",
+          "cat_l1": "legkovye-avtomobili",
+          "cat_l1_path": "legkovye-avtomobili",
+          "cat_l2": "homepage",
+          "cat_l0_name": "Транспорт",
+          "cat_l1_name": "Легковые автомобили",
+          "cat_id": "3|108",
+          "private_business": "all",
+          "offer_seek": "all",
+          "view": "list",
+          "currency": "UZS",
+          "search_engine_input": "",
+          "page": "1",
+          "app_version": "",
+          "model": [
+            "cobalt"
+          ]
+        }
+      }
+    },
+    "source": {
+      "promoted": [
+        0,
+        1,
+        2
+      ],
+      "organic": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://www.olx.uz/api/v1/offers?offset=0&limit=10&sort_by=created_at%3Adesc&filter_enum_model%5B0%5D=cobalt&category_id=108"
+    },
+    "next": {
+      "href": "https://www.olx.uz/api/v1/offers?offset=10&limit=10&sort_by=created_at%3Adesc&filter_enum_model%5B0%5D=cobalt&category_id=108"
+    },
+    "first": {
+      "href": "https://www.olx.uz/api/v1/offers?offset=0&limit=10&sort_by=created_at%3Adesc&filter_enum_model%5B0%5D=cobalt&category_id=108"
+    }
+  }
+}

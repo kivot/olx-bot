@@ -1,0 +1,2 @@
+BOT_TOKEN = "8711767013:AAEyVgwL1PMBhO8WzbQIetyd3D_OKStLwko"   # токен от @BotFather
+CHAT_ID   = "7584240684"     # твой Telegram chat_id
