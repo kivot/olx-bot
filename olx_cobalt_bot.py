@@ -1,6 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║       OLX.uz — Мониторинг Chevrolet Cobalt v16              ║
+║       OLX.uz — Мониторинг Chevrolet Cobalt v17              ║
+║       + Фильтр стоп-слов (кредит, лизинг, аренда...)       ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ЗАВИСИМОСТИ:
@@ -12,6 +13,7 @@
 
 import asyncio
 import logging
+import random
 import re
 from dataclasses import dataclass
 from datetime import datetime, timezone, timedelta
@@ -24,9 +26,8 @@ from telegram.error import TelegramError
 #  ⚙️  CONFIG
 # ─────────────────────────────────────────────────────────────
 
-import os
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-CHAT_ID   = os.environ["CHAT_ID"]
+BOT_TOKEN = "YOUR_BOT_TOKEN"
+CHAT_ID   = "YOUR_CHAT_ID"
 
 API_URL = (
     "https://www.olx.uz/api/v1/offers/"
@@ -36,7 +37,7 @@ API_URL = (
     "&filter_enum_model%5B0%5D=cobalt"
 )
 
-# ── Фильтры ───────────────────────────────────────────────────
+# ── Фильтры по параметрам ─────────────────────────────────────
 PRICE_MIN:   int | None = None   # например: 50_000_000
 PRICE_MAX:   int | None = None   # например: 150_000_000
 YEAR_MIN:    int | None = None   # например: 2020
@@ -47,6 +48,21 @@ MILEAGE_MAX: int | None = None   # например: 100_000
 MAX_AGE_HOURS = 2
 
 CHECK_INTERVAL = 30  # секунды
+
+# ─────────────────────────────────────────────────────────────
+#  🚫  Стоп-слова
+# ─────────────────────────────────────────────────────────────
+# Объявления содержащие эти слова в заголовке или описании
+# будут автоматически пропущены.
+
+STOP_WORDS = re.compile(
+    r"kredit|credit|кредит"          # кредит (рус/лат)
+    r"|lizing|leasing|лизинг"        # лизинг (рус/лат)
+    r"|arenda|аренда|ijara|ижара"    # аренда (рус/лат/узб)
+    r"|nasiya|nasya|рассрочка"       # рассрочка (рус/узб)
+    r"|aksiya|акция",                # акция (рус/лат)
+    re.IGNORECASE
+)
 
 # ─────────────────────────────────────────────────────────────
 #  📋  Логирование
@@ -101,11 +117,12 @@ def fmt_tashkent(dt: datetime) -> str:
 class Listing:
     listing_id: int
     title: str
+    description: str           # полный текст объявления для проверки стоп-слов
     price: str
     price_num: int
     location: str
-    created_dt: datetime   # реальная дата публикации
-    refresh_dt: datetime   # время последнего поднятия (показываем и фильтруем по нему)
+    created_dt: datetime
+    refresh_dt: datetime
     year: str
     year_num: int
     mileage: str
@@ -116,8 +133,6 @@ class Listing:
 # ─────────────────────────────────────────────────────────────
 #  🌐  API запрос
 # ─────────────────────────────────────────────────────────────
-
-import random
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -163,6 +178,7 @@ def _parse_ad(ad: dict) -> Listing | None:
         return None
 
     title = ad.get("title", "—")
+    description = ad.get("description", "")
 
     url_raw = ad.get("url", "")
     url = ("https://www.olx.uz" + url_raw if url_raw.startswith("/") else url_raw).split("?")[0]
@@ -214,7 +230,7 @@ def _parse_ad(ad: dict) -> Listing | None:
     location = ", ".join(filter(None, [city, district])) or "—"
 
     return Listing(
-        listing_id=lid, title=title,
+        listing_id=lid, title=title, description=description,
         price=price_str, price_num=price_num,
         location=location,
         created_dt=created_dt, refresh_dt=refresh_dt,
@@ -227,6 +243,12 @@ def _parse_ad(ad: dict) -> Listing | None:
 #  🔍  Фильтры
 # ─────────────────────────────────────────────────────────────
 
+def has_stop_words(l: Listing) -> bool:
+    """True если заголовок или описание содержат стоп-слова."""
+    text = f"{l.title} {l.description}"
+    return bool(STOP_WORDS.search(text))
+
+
 def passes_filters(l: Listing) -> bool:
     if PRICE_MIN and l.price_num and l.price_num < PRICE_MIN:
         return False
@@ -238,11 +260,12 @@ def passes_filters(l: Listing) -> bool:
         return False
     if MILEAGE_MAX and l.mileage_num and l.mileage_num > MILEAGE_MAX:
         return False
+    if has_stop_words(l):
+        return False
     return True
 
 
 def is_fresh(l: Listing) -> bool:
-    """Объявление свежее если last_refresh_time не старше MAX_AGE_HOURS."""
     return (now_utc() - l.refresh_dt) <= timedelta(hours=MAX_AGE_HOURS)
 
 # ─────────────────────────────────────────────────────────────
@@ -280,7 +303,6 @@ def format_message(l: Listing) -> str:
     else:
         phone_line = f"\n📞 <a href='{l.url}'>Показать номер</a>"
 
-    # Показываем refresh_dt — это то же время что OLX показывает в интерфейсе
     posted = fmt_tashkent(l.refresh_dt)
 
     return (
@@ -336,6 +358,7 @@ async def run():
     if MILEAGE_MAX:
         filter_lines.append(f"🛣 до {MILEAGE_MAX:,} км".replace(",", " "))
     filter_lines.append(f"⏳ поднято не позднее {MAX_AGE_HOURS} ч. назад")
+    filter_lines.append("🚫 без кредита, лизинга, аренды, рассрочки, акций")
     filter_text = "\n".join(filter_lines)
 
     n = now_utc()
@@ -346,7 +369,7 @@ async def run():
         f"MAX_AGE={MAX_AGE_HOURS}ч"
     )
 
-    # ── Первый запуск: просто запоминаем все текущие ID ───────
+    # Первый запуск — запоминаем все текущие ID
     listings = fetch_listings() or []
     for l in listings:
         seen_ids.add(l.listing_id)
@@ -357,7 +380,7 @@ async def run():
         await bot.send_message(
             chat_id=CHAT_ID,
             text=(
-                "✅ <b>OLX Cobalt Bot v16 запущен</b>\n\n"
+                "✅ <b>OLX Cobalt Bot v17 запущен</b>\n\n"
                 "🔍 Chevrolet Cobalt · OLX.uz\n"
                 f"⏱ Проверка каждые {CHECK_INTERVAL} сек\n"
                 "📞 Автопоиск телефона\n\n"
@@ -369,7 +392,6 @@ async def run():
     except TelegramError as e:
         log.error(f"Стартовое сообщение: {e}")
 
-    # ── Основной цикл ─────────────────────────────────────────
     while True:
         check_count += 1
         log.info(f"─── Проверка #{check_count} ───")
@@ -402,7 +424,17 @@ async def run():
             log.info(f"  Свежих: {len(fresh)} | Старых: {len(old)}")
 
             to_send = [l for l in fresh if passes_filters(l)]
-            if len(fresh) != len(to_send):
+            blocked = len(fresh) - len(to_send)
+            if blocked:
+                # Логируем что именно заблокировано стоп-словами
+                for l in fresh:
+                    if not passes_filters(l) and has_stop_words(l):
+                        m = STOP_WORDS.search(f"{l.title} {l.description}")
+                        word = m.group(0) if m else "?"
+                        log.info(
+                            f"  🚫 Стоп-слово «{word}» [{l.listing_id}] "
+                            f"«{l.title[:35]}» — пропуск"
+                        )
                 log.info(f"  После фильтров: {len(to_send)}")
 
             for l in to_send:
@@ -417,7 +449,6 @@ async def run():
                 except TelegramError as e:
                     log.error(f"  ✗ {e}")
 
-            # Запоминаем все новые (включая старые и отфильтрованные)
             seen_ids.update(l.listing_id for l in new_listings)
         else:
             log.info("  Новых нет.")
