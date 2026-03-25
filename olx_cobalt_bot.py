@@ -26,8 +26,9 @@ from telegram.error import TelegramError
 #  ⚙️  CONFIG
 # ─────────────────────────────────────────────────────────────
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID   = "YOUR_CHAT_ID"
+import os
+BOT_TOKEN = os.environ["BOT_TOKEN"]
+CHAT_ID   = os.environ["CHAT_ID"]
 
 API_URL = (
     "https://www.olx.uz/api/v1/offers/"
